@@ -1,0 +1,15 @@
+{
+  "plugins": [
+    "expo-secure-store"
+  ],
+  "extra": {
+    "eas": {
+      "projectId": "94c22456-3cca-46a5-bd11-98097cb0c0d4"
+    }
+  },
+  "expo": {
+    "android": {
+      "package": "com.nikhil1729.securewatchmobile"
+    }
+  }
+}
