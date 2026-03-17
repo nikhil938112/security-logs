@@ -1,5 +1,4 @@
 # SecureWatch — Security Log Monitoring App
-### B.Tech CSE Resume Project | React Native + Node.js + MongoDB
 
 ---
 
